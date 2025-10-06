@@ -1,0 +1,28 @@
+# Node & system
+node_modules/
+package-lock.json
+
+# Windows system files
+*.log
+*.exe
+*.msi
+*.mov
+*.pdf
+*.docx
+*.jpeg
+*.jpg
+*.png
+*.zip
+*.ini
+*.DAT
+*.TM*
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Videos/
