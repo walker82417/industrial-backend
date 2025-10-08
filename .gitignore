@@ -1,9 +1,20 @@
-# Node & system
+# -----------------------------
+# Node.js & Backend Essentials
+# -----------------------------
 node_modules/
 package-lock.json
+.env
+.env.local
+.env.*.local
 
-# Windows system files
+# -----------------------------
+# Log files
+# -----------------------------
 *.log
+
+# -----------------------------
+# Windows system files
+# -----------------------------
 *.exe
 *.msi
 *.mov
